@@ -10,5 +10,6 @@
     <Folder Include="Clases\" />
     <Folder Include="Clases\Animales\" />
     <Folder Include="Clases\Items\" />
+    <Folder Include="Cambiar lenguaje\" />
   </ItemGroup>
 </Project>

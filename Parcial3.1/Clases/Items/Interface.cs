@@ -9,5 +9,10 @@ namespace Parcial3._1.Clases.Items
 {
     public interface Interface
     {
+    
+        string Talk();
+       
+
+   
     }
 }
