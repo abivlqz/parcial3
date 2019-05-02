@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{5CCC84DF-B2AD-4004-B163-B33AF47F865F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Estado de Parcial3.1">
+    <Files>
+      <File FileName="Parcial3.1/Program.cs" Line="7" Column="1" />
+      <File FileName="Parcial3.1/Clases/Animales/Cat.cs" Line="12" Column="19" />
+      <File FileName="Parcial3.1/Clases/Animales/Dog.cs" Line="1" Column="1" />
+      <File FileName="Parcial3.1/Clases/Items/Sound.cs" Line="7" Column="1" />
+      <File FileName="Parcial3.1/Clases/Items/Interface.cs" Line="14" Column="1" />
+      <File FileName="Parcial3.1/Clases/Items/AnimalData.cs" Line="1" Column="1" />
+      <File FileName="Estado de Parcial3.1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parcial3.1" expanded="True">
+            <Node name="Parcial3.1" expanded="True">
+              <Node name="Clases" expanded="True">
+                <Node name="Items" expanded="True">
+                  <Node name="AnimalData.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Parcial3.1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
